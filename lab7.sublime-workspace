@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q_",
+				"q_id"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"en_",
+				"en_HelpText"
+			],
+			[
+				"en",
+				"en_Label"
+			],
+			[
+				"lo",
+				"log_table_simple_extended"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"vi",
+				"video"
+			],
+			[
+				"more",
+				"more-info"
+			],
+			[
+				"F",
+				"Forms_ID"
+			],
+			[
+				"H",
+				"HTTParty"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"team",
+				"team-member-pic"
+			],
+			[
+				"te",
+				"team-member"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"outpu",
+				"outputY"
+			],
+			[
+				"outp",
+				"outputY"
+			],
+			[
+				"out",
+				"outputY"
+			],
+			[
+				"input",
+				"inputX"
+			],
+			[
+				"in",
+				"included_cols"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"La",
+				"Laravel"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fa",
+				"favorites"
+			],
+			[
+				"curren",
+				"currentSong"
+			],
+			[
+				"rando",
+				"randomSong"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.handlebars",
+			"settings":
+			{
+				"buffer_size": 1947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/googleAnalytics.handlebars",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/project.handlebars",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pak",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/masudrahman/Code/iCONCUR/questions.sql",
+		"/Users/masudrahman/Code/iCONCUR/iCONCUR.sql",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/mypage.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/mypage.blade",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/Controllers/SharingChoicesController.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/taxonomy-ajax.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/create_extended.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/last_view_simple.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/login/create.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/composer.lock",
+		"/Users/masudrahman/Code/iCONCUR/more_data.sql",
+		"/Users/masudrahman/Code/iCONCUR/resources/lang/en/static.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/history.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/view_choice_extended.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/last_view.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/last_view_extended.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/public/css/iconcur-styles.css",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/layouts/sharing.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/login/consent.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/Controllers/LoginController.php",
+		"/Users/masudrahman/Code/iCONCUR/config/app.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/password/reset.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/.gitignore",
+		"/Users/masudrahman/Code/iCONCUR/.DS_Store",
+		"/Users/masudrahman/Code/iCONCUR/vendor/way/generators/.gitignore",
+		"/Users/masudrahman/Code/iCONCUR/script.sql",
+		"/Users/masudrahman/Code/iCONCUR/db.sql",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/create_simple.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/script.php",
+		"/Users/masudrahman/Code/iCONCUR/mydb_backup.sql",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/create.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/view_choice_simple.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/sharing/view_choice.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_05_24_230723_create_Family_values_table.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_24_000511_add_Forms_ID_and_Ordering_to_Questions.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/lang/en/layouts.php",
+		"/Users/masudrahman/Code/iCONCUR/essential_data.sql",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/Fa",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_31_130021_add_users_id_and_Forms_ID_to_Family_values.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/lang/en/sharing.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/layouts/simplesurvey.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/static/more-info.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/layouts/survey.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/static/home.blade.php",
+		"/Users/masudrahman/.bash_profile",
+		"/Users/masudrahman/.bash_rc",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_05_24_230723_create_Family_table.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/layouts/health_status.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/storage/framework/views/e17bdbf44bf1a98e78baadbe9f25de9bbf0dc9e0.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_24_114934_create_Display_language_table.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/login/terms.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_24_113359_create_log_table_simple_extended_table.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_24_024613_create_log_table_simple_extended.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_05_24_230723_create_Forms_table.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_05_24_230723_create_users_table.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_23_113907_add_Ordering_to_Sections.php",
+		"/Users/masudrahman/Code/iCONCUR/resources/views/static/legal.blade.php",
+		"/Users/masudrahman/Code/iCONCUR/.env",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/routes.php",
+		"/Users/masudrahman/Code/iCONCUR/vendor/way/generators/readme.md",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/Controllers/MyDataUseController.php",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/Controllers/AdminController.php",
+		"/Users/masudrahman/Code/iCONCUR/app/Http/Controllers/Controller.php",
+		"/Users/masudrahman/Code/iCONCUR/database/migrations/2016_10_22_155445_add_Obj_version_and_Forms_ID_to_User_values.php",
+		"/Users/masudrahman/Code/iCONCUR/storage/framework/views/b7d7ada4016d3281322f18b27c1d70deb6447d7f.php",
+		"/Users/masudrahman/Code/iCONCUR/storage/framework/views/091c201ef10275af47fd8be3caac5b0b0bc3e6c6.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_10_22_155445_add_Obj_version_and_Forms_ID_to_User_values.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_10_21_163456_add_Obj_number_to_family.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_10_22_143832_add_Obj_version_to_Family_values.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/mydb_backup.sql",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/app/Http/routes.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/.gitignore",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_05_24_230723_create_Family_table.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_05_24_230723_create_Family_values_table.php",
+		"/Users/masudrahman/Desktop/iCONCUR COPY 101516/database/migrations/2016_10_22_153414_add_Obj_version_to_User_values.php",
+		"/Users/masudrahman/Code/iCONCUR/database/seeds/DatabaseSeeder.php",
+		"/Users/masudrahman/Code/iCONCUR/phpunit.xml",
+		"/usr/local/var/mysql/masuds-mbp.dynamic.ucsd.edu.err",
+		"/usr/local/var/mysql/masudrahman.pid",
+		"/usr/local/Cellar/mysql/5.7.16/support-files/my.cnf",
+		"/usr/local/Cellar/mysql/5.7.16/README",
+		"/Users/masudrahman/Code/iCONCUR/storage/logs/laravel.log",
+		"/Users/masudrahman/Code/iCONCUR/bootstrap/cache/.gitignore",
+		"/Users/masudrahman/Code/EasyFlight/README.md",
+		"/Users/masudrahman/Code/EasyFlight/app/views/flight_info/index.html.erb",
+		"/Users/masudrahman/Code/EasyFlight/app/bot/example.rb",
+		"/Users/masudrahman/Code/EasyFlight/config/routes.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/views/layouts/application.html.erb",
+		"/Users/masudrahman/Code/EasyFlight/db/migrate/20161001091911_create_data.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/controllers/application_controller.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/views/data/list.html.erb",
+		"/Users/masudrahman/Code/EasyFlight/app/controllers/data_controller.rb",
+		"/Users/masudrahman/Code/EasyFlight/db/migrate/20161001084010_data.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/views/layouts/mailer.html.erb",
+		"/Users/masudrahman/Desktop/web_scraper.rb",
+		"/Users/masudrahman/Code/EasyFlight/db/migrate/20161001091911",
+		"/Users/masudrahman/Code/EasyFlight/app/models/application_record.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/models/datum.rb",
+		"/Users/masudrahman/Code/EasyFlight/app/helpers/application_helper.rb",
+		"/Users/masudrahman/Code/EasyFlight/db/seeds.rb",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/news.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/contact.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/services.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/index-business.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/css/style.css",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/about.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/sc-tabs-accordions.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/index-business2.html",
+		"/Users/masudrahman/Code/housing-model/ml-model.py",
+		"/Users/masudrahman/Code/housing-model/scrapy.py",
+		"/Users/masudrahman/Code/Selenium/test_python_org_search.py",
+		"/Users/masudrahman/Code/Selenium/taco.py",
+		"/Users/masudrahman/Code/Selenium/python_org_search.py",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/page-contactus.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/blog-single.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/page-services.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/index-corporation.html",
+		"/Users/masudrahman/Code/marine-v1.0/HTML/blog-big-image.html",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/content.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/sidebar.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/page.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/blog.css",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/header.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/index.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/style.css",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/footer.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/themes/startwordpress/head.php",
+		"/Users/masudrahman/Code/wordpress/wp-content/startwordpress/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"static.php",
+			"sharing.blade.php",
+			"sharing.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redire",
+			"first-name-error",
+			"heading-text",
+			"se",
+			"modal",
+			"myModal",
+			"q_130",
+			"$fam",
+			"fam",
+			"DB",
+			"134",
+			"135",
+			"134",
+			"135",
+			"radio",
+			"130",
+			"console",
+			"one_section",
+			"submit",
+			"v_data",
+			"v",
+			"29",
+			"129",
+			"v_data",
+			"radio",
+			"v_data",
+			"q_id",
+			"sum_section",
+			"sum_section(130);",
+			"'sharing.last_view_'.$simple_extended",
+			"user_simple_extended",
+			")->insert",
+			"DB::table('users')->insert",
+			"insert",
+			"login.create.create_account",
+			"submit",
+			"simple_extended",
+			"sharingchoicescontroller",
+			"sharingchoices",
+			"consent_table",
+			"choiceForm",
+			"Consent_table",
+			"sections",
+			"popover",
+			"popover-content",
+			"form",
+			"post",
+			"choiceForm",
+			"$dis_sections",
+			"$sections",
+			"sections",
+			"myModal",
+			"133",
+			"132",
+			"133",
+			"right",
+			"\n					<a class=\"hasPopover\" href=\"#\" data-content=\"{{ $q_130_helptext }}\" data-placement=\"",
+			"right",
+			"ul",
+			"logincontroller",
+			"login.create.pass",
+			"login.creat.pass",
+			"login",
+			"controller",
+			"bootstrap",
+			"tbody",
+			"<li>",
+			"li",
+			"132",
+			"133",
+			"132",
+			"132_2",
+			"132",
+			"133",
+			"132",
+			"131",
+			"q_131",
+			"131",
+			"result_131",
+			"q_130",
+			"income",
+			"X-ray",
+			"blood",
+			"Name",
+			"Age",
+			"Sexual Orientation",
+			"occupation",
+			"Choice description",
+			"Home Address",
+			"How many years old",
+			"How many years",
+			"Edad",
+			"Age",
+			"ques_helptext",
+			"<p>",
+			".$sec_helptext.",
+			"hasPop",
+			"data encryption",
+			"make_choice_button",
+			"Make a New",
+			"132",
+			"p>",
+			"<p>",
+			"p",
+			"31",
+			"131",
+			"</div>",
+			"<div class=\"radio\">",
+			"radio",
+			"radio-inline",
+			"stem",
+			"130",
+			"sharing",
+			"a",
+			"sharing.php",
+			"sharing",
+			"130",
+			"q_130",
+			"130",
+			"0",
+			"stem",
+			"stem_cell_yes",
+			"layouts.php",
+			"My Sharing Choices",
+			"Stem cell researchers can use my data",
+			"q_39",
+			"stem",
+			"stem_cell"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.handlebars",
+					"settings":
+					{
+						"buffer_size": 1947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1930,
+								1930
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 141.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/partials/googleAnalytics.handlebars",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/project.handlebars",
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3076,
+								3076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 471.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true
+}
